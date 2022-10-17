@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Ract-project SHOP
+ [Demo приложения] (https://prostobronik.github.io/REACT_SHOP/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
